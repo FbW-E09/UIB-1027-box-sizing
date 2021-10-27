@@ -1,0 +1,33 @@
+.content-box div {
+    box-sizing: content-box;
+}
+
+.border-box div {
+    box-sizing: border-box;
+}
+
+.box-1 {
+    background: tomato;
+}
+.box-2 {
+    background: teal;
+}
+.box-3 {
+    background: limegreen;
+}
+.box-4 {
+    background: hotpink;
+}
+
+.box-5 {
+    background: tomato;
+}
+.box-6 {
+    background: teal;
+}
+.box-7 {
+    background: limegreen;
+}
+.box-8 {
+    background: hotpink;
+}
