@@ -6,6 +6,12 @@ The `div`s are divided in 2 sections:
 - a `content-box` section
 - a `border-box` section
 
+Your goal is to make the `div`s in the 2 sections to look like the image below:
+
+![result](result.png)
+
+## Instructions
+
 - The `div` in the first section have `box-sizing: content-box;`.
 - The `div` in the first section have `box-sizing: border-box;`.
 
@@ -20,5 +26,4 @@ Your goal is to make the `div`s in both sections to have respectively a final si
 - 200px the third div
 - 250px the fourth div
 
-Complete the style for each `div` so that they all look the same in the end
-![result](result.png)
+
